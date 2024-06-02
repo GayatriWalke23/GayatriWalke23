@@ -1,8 +1,7 @@
 I am passionate about AI and ML, backed by a solid software engineering background. Currently, I am in my Master's program, specializing in Artificial Intelligence. My experience is rooted in crafting innovative solutions and fine-tuning intricate systems. I thrive on pushing the limits of technology to create meaningful impacts.
 
 
-*I am currently seeking new opportunities in AI and Machine Learning software development.
-Feel free to reach out to me via [email](mailto:gayatriwalke23@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/gayatriwalke/).*
+# *I am currently seeking new opportunities in AI and Machine Learning software development.Feel free to reach out to me via [email](mailto:gayatriwalke23@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/gayatriwalke/).*
 ## Current Role
 
 ### AI ML Engineer Intern at [mirro.ai](https://mirro.ai/)
