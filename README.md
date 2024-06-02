@@ -2,7 +2,6 @@ I am passionate about AI and ML, backed by a solid software engineering backgrou
 
 
 *I am currently seeking new opportunities in AI and Machine Learning software development.
-
 Feel free to reach out to me via [email](mailto:gayatriwalke23@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/gayatriwalke/).*
 ## Current Role
 
