@@ -1,5 +1,3 @@
-
-# Gayatri Nagesh Walke
 I am passionate about AI and ML, backed by a solid software engineering background. Currently, I am in my Master's program, specializing in Artificial Intelligence. My experience is rooted in crafting innovative solutions and fine-tuning intricate systems. I thrive on pushing the limits of technology to create meaningful impacts.
 
 
